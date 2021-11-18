@@ -149,6 +149,7 @@ body {
 /* footer socials */
 .socials {
     display: flex;
+    max-height: 2rem;
 }
 
 .socials i {
