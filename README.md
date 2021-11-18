@@ -1,6 +1,6 @@
 # spotify-clone
  
-<img src="./images/logo.png">
+<img src="./images/logo.png" style="width:60%;">
 
 <h1>Spotify Clone</h1>
 
