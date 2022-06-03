@@ -7,7 +7,7 @@
 <br>
 
 ## 💻 Projeto
-Esse projeto consiste em uma clonagem da homepage do Spotify
+Esse projeto consiste em um clone da landing-page do Spotify
 
 <br>
 
