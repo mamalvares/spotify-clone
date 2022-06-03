@@ -13,5 +13,5 @@ Esse projeto consiste em uma clonagem da homepage do Spotify
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-- [HTML]()
-- [CSS]()
+- [HTML](#)
+- [CSS](#)
